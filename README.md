@@ -24,5 +24,5 @@
   <a href="https://www.linkedin.com/in/lucas-ben-hur-ac%C3%A1cio-53b1031a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-  ##  .👨‍💻 Em busca de oportunidades em Back-end;
-  ##  .💻 Atualmente estudando sobre Java,JavaScript,Html,Css;
+  ##  .👨‍💻 Java development;
+  ##  .💻 Java,JavaScript,Html,Css;
